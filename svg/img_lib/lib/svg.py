@@ -1,0 +1,1 @@
+MIMETYPE = "image/svg+xml"
